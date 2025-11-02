@@ -7,11 +7,11 @@
       "title": "StartM5",
       "styling": {
         "primaryColor": "#2b7a69",
-        "secondaryColor": "#ffd7ef",
-        "successColor": "#3a341c",
-        "infoColor": "#320707",
-        "warningColor": "#a0e2e1",
-        "dangerColor": "#ffffff",
+        "secondaryColor": "#2b7a69",
+        "successColor": "#2b7a69",
+        "infoColor": "#2b7a69",
+        "warningColor": "#2b7a69",
+        "dangerColor": "#2b7a69",
         "mainFont": "Inter Tight",
         "display1Font": "Inter Tight",
         "display1Size": 5,
@@ -29,7 +29,7 @@
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ffa25b",
